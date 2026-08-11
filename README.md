@@ -5,13 +5,9 @@
 - 📚 Computer Science Student
 - 🛠️ Currently learning Web Development & Software Engineering
 - 💬 Interested in learning HTML, CSS, JavaScript, and Python
-## About Me
-- Computer Science Student
-- Currently learning Web Development & Software Engineering
-- Interested in learning HTML, CSS, JavaScript, and Python
 
 ## 💻 Languages & Tools
-## Languages & Tools
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -27,11 +23,9 @@
 ## 🌱 Current Focus
 - 🚀 Building foundational coding skills and exploring new web technologies
 - 📂 Excited to start adding personal and academic projects here soon!
-##  Current Focus
--  Building foundational coding skills and exploring new web technologies
--  Excited to start adding personal and academic projects here soon!
+
 
 ## 📫 How to Reach Me
-##  How to Reach Me
+
 - **Facebook:** [Renz Bacongallo](https://web.facebook.com/renzbacongallo)
 - **GitHub:** [@ShituzieKai](https://github.com/renz-202480288)
