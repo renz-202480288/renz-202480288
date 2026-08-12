@@ -28,4 +28,4 @@
 ## 📫 How to Reach Me
 
 - **Facebook:** [Renz Bacongallo](https://web.facebook.com/renzbacongallo)
-- **GitHub:** [@ShituzieKai](https://github.com/renz-202480288)
+- **GitHub:** [@renz-202480288](https://github.com/renz-202480288)
